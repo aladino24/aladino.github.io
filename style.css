@@ -1,0 +1,114 @@
+
+/*jumbroton
+.jumbotron {
+    height : 780px;
+    background-image: url(2.jpg);
+    background-size: cover;
+    text-align : center;
+     padding-top : 200px;
+   
+}
+.jumbotron .display-4{
+    color : white;
+    font-weight: bold;
+}
+
+.jumbotron p{
+    color : white;
+    font-size: 25px;
+    
+}
+
+.jumbotron .teks{
+    font-weight: bold;
+}
+
+.jumbotron p {
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.jumbotron hr{
+    border-color: #8f2c05;
+    width : 250px;
+    border-width: 3px;
+}
+
+.jumbotron .btn{
+    background-color : #ca0909;
+    border : 2px solid #02199c;
+    border-radius: 25px;
+}
+
+*/
+
+
+
+.carousel-inner{
+    height : 750px;
+    margin-bottom: 20px;
+    padding-bottom: 30px;
+    box-sizing: border-box;
+}
+.carousel-item{
+    height : 890px;
+    margin-bottom: 20px;
+    padding-bottom: 30px;
+    box-sizing: border-box;
+}
+
+.carousel-item img{
+    margin-top: 0px;
+    margin-bottom: 100px;
+    height : 790px;
+}
+
+.carousel-item .carousel-caption .display-4{
+    margin-top: -670px;
+    font-weight: bold;
+    text-shadow:  2px 4px red;
+    margin-bottom: 50px;
+    padding-bottom: 80px;
+    font-size: 45px;
+}
+
+.carousel-item .tekscaption{
+    font-size: 24px;
+    padding-bottom: 20px;
+    margin-bottom: 30px;
+}
+
+.carousel-item .btn{
+    background-color: #f71010;
+    border : none;
+    border-radius: 30px;
+    padding-right: 25px;
+    padding-left : 25px;
+}
+
+.carousel-item .carousel-caption .my-4{
+    border-color: #8a5108;
+    border-width: 4px;
+    width: 450px;
+}
+
+.carousel-item .carousel-caption{
+    padding-bottom: 30px;
+}
+
+.headcont{
+    margin-top: 75px;
+}
+
+.portofolio{
+    margin-top: 80px;
+}
+
+.page-footer {
+    margin-top: 20px;
+}
+
+.footer-copyright {
+    height : 65px;
+    background-color: lightgrey;
+    font-weight: bold;
+}
